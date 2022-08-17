@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">FurnishedCamera</string>
+    <string name="TakePhoto">Preview</string>
+    <string name="Capture">Capture</string>
+    <string name="Text">Take photo of hook with ruler for scale</string>
+
+</resources>
